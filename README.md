@@ -4,7 +4,7 @@ Welcome to my **OSINT repository**! This space is dedicated to practicing and sh
 
 ## 📄 What's Inside
 
-### [`📄 Anonymized_OSINT_Report.pdf`](https://chat.openai.com/share/sandbox:/mnt/data/Anonymized_OSINT_Report.pdf)
+Anonymized_OSINT_Report.pdf
 A fully anonymized, real-world inspired OSINT case study that includes:
 - Link tracking via a consented test
 - Basic metadata and device info capture

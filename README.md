@@ -4,7 +4,7 @@ Welcome to my **OSINT repository**! This space is dedicated to practicing and sh
 
 ## 📄 What's Inside
 
-Anonymized_OSINT_Report.pdf
+https://github.com/alavyasharma/OSINT/blob/30a36cf020cd4ec0ecb3a9c4414ace86c85300ef/Anonymized_OSINT_Report.pdf
 A fully anonymized, real-world inspired OSINT case study that includes:
 - Link tracking via a consented test
 - Basic metadata and device info capture

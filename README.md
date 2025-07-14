@@ -66,7 +66,7 @@ Let’s learn and grow together in this beautifully terrifying internet jungle. 
 
 ## 🧑‍💻 Author
 
-**Aly** — student & cybersecurity enthusiast. 
+**Alavya Sharma** — student & cybersecurity enthusiast. 
 Feel free to connect or collab!
 
 
